@@ -1,3 +1,5 @@
+package ex_03_Literals;
+
 public class Lab033_Literals {
     public static void main(String[] args) {
         int age = 65; // Decimal System - base wil 10
