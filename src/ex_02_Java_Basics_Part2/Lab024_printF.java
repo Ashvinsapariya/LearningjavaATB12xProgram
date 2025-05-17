@@ -9,7 +9,7 @@ public class Lab024_printF {
         // %f -> float, double,
         // %b ->boolean
 
-        System.out.println(a);
+       // System.out.println(a);
         System.out.printf("your value is %d", a);
         System.out.println();
         int b = 28;
