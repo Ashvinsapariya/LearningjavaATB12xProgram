@@ -11,7 +11,7 @@ public class Lab048_Interview
     // A - balaji_salary > 10 -> 12 > 10 -> true
     // B -> balaji_salary < 5  12 < 5 -> false
     // !(A || B) -> !(true || false) -> !true - false
-
+ // divide and concur rule
 
 
 
