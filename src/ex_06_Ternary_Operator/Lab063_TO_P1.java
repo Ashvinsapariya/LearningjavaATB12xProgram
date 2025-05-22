@@ -9,7 +9,5 @@ public class Lab063_TO_P1 {
         System.out.println(result);
 
 
-
-
     }
 }

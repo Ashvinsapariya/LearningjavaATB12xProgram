@@ -11,7 +11,7 @@ public class Lab070_ID_Op_PRE {
 
         //  Exp and Result Table
         // Line No | a | Result b
-        // 9  |  10 |  NA
+        // 5  |  10 |  NA
         // 6    | 11  |  11
         // 7   | 11 - print | 11
         // 8   | 11 | 11 - pint
