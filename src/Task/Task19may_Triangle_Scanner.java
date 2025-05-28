@@ -1,7 +1,6 @@
 package Task;
 import java.util.Scanner;
 
-
 public class Task19may_Triangle_Scanner {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
